@@ -126,7 +126,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bensalah-Yassine&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bensalah-Yassine&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
