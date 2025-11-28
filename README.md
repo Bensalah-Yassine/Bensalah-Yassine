@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="./Coding.gif" width="300" />
+  <img src="./Coding.gif" />
 </p>
 
 <h3 align="center">🌍 Based in Tlemcen, Algeria</h3>
