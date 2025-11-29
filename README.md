@@ -10,7 +10,6 @@
 </p>
 
 <h3 align="center">🌍 Based in Tlemcen, Algeria</h3>
-<h3 align="center">💻 Software Developer</h3>
 
 ---
 
