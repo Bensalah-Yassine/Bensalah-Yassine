@@ -118,10 +118,3 @@
   <img src="https://komarev.com/ghpvc/?username=Bensalah-Yassine&label=Profile%20Views&style=for-the-badge" />
 
 </p>
-
----
-
-## 🔥 **GitHub Activity**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bensalah-Yassine&theme=tokyonight&hide_border=true" />
-</p>
